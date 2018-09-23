@@ -1,0 +1,130 @@
+html
+{
+    margin: 0;
+    font-weight: 800;
+}
+.main{
+    display: flex;
+    padding: 90px 130px 88px 148px;
+    width: 1163px;
+    background: #fff;
+    border-radius: 10px;
+    justify-content: space-between;
+    overflow: hidden;
+    flex-wrap: wrap;
+    align-items: center;
+    box-sizing: border-box;
+    margin-left:  50px;
+    margin-right: 50px;
+    margin-top:  2px;
+    margin-bottom:0.5px;
+}
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #0072ff, #00c6ff);
+    padding: 32px 15px 15px 15px;
+}
+.label{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    box-sizing: inherit;
+}
+.field{
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.img{
+    width: 35%;
+    height: 276.78px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: inherit;
+}
+body
+{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 1.5;
+    color: #212529;
+    font-family: Montserrat, sans-serif;
+}
+form
+{
+    display: block;
+}
+.heading
+{  
+    display: block;
+    font-size: 24px;
+    color: #333333;
+    line-height: 1.2;
+    text-align: center;
+    padding-bottom: 44px;
+    font-weight: 800;
+}
+.first
+{
+    display: block;
+    width: 330.06px;
+    height: 50px;
+    background: #e6e6e6;
+    font-size: 15px;
+    color: #666666;
+    border-radius: 25px;
+    font-weight: 800;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+input
+{
+    outline: none;
+    border: none;
+}
+textarea.field
+{
+    min-height: 150px;
+    border-radius: 25px;
+    padding: 12px 30px;
+}
+textarea
+{
+    border:none;
+    outline: none;
+    font-weight: 800;
+}
+.fieldbut{
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.but1{
+    min-width: 193px;
+    height: 50px;
+    border-radius: 25px;
+    background: #57b846;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+}
+button
+{
+    outline: none;
+    border: none;
+}
+button:hover
+{
+    background-color: #333333;
+}

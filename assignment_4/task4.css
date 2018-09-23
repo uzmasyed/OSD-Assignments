@@ -1,0 +1,312 @@
+html{
+	margin:0;
+	overflow-y: scroll;
+    overflow-x: hidden;
+    margin:0px;
+    padding: 0px;
+}
+.top{
+	background-image:url("https://www.free-css.com/assets/files/free-css-templates/preview/page231/pcomspace/assets/images/live-demo/background-01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.sup{
+	 background-color: rgba(0,0,0,.55);
+}
+header{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 170px;
+	color:white;
+	font-size: 1.4rem;
+}
+h3{
+	font-size: 2rem;
+	margin: 0 0 20px 0;
+	font-family: Georgia,"Times New Roman",Times,serif;
+
+}
+.mid1{
+	
+}
+body{
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 14px;
+    line-height: 1.6em;
+    margin: 0;
+}
+.main
+{
+	margin:0px;
+	position: relative;
+    padding-top: 200px;
+	padding-bottom: 200px;
+	margin-right: 185px;
+	margin-left: 185px;
+	max-width: 978px;
+	text-align: center;
+	justify-content: space-between;
+}
+.but{
+    padding: 8px 18px 10px;
+    border: 1px solid;
+    border-radius: 22px;
+    cursor:pointer;
+    background-color: transparent;
+    border-color: inherit;
+    border: 1px solid white;
+    color: #FFF;
+}
+.but:hover{
+	color: #FFF;
+    background-color: #6AAEBF;
+    border-color: #6AAEBF;
+}
+.but1{
+	color: #FFF;
+    background-color: #6AAEBF;
+    border-color: #6AAEBF;
+    padding: 8px 18px 10px;
+    border-radius: 22px;
+    cursor:pointer;
+}
+.but1:hover{
+    color: inherit;
+    background-color: transparent;
+    border-color: inherit;
+    color: #FFF;
+     border: 1px solid;
+}
+footer{
+	margin-top: 80px;
+}
+.heading1{
+	margin-bottom: 20px;
+    font-size: 2rem;
+    font-family: Georgia,"Times New Roman",Times,serif;
+}
+.arti{
+	max-width: 75%;
+    margin: 0 auto;
+    color:white;
+	margin-left: 122.250px;
+	margin-right: 122.250px;
+}
+.main1{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.heading{
+	margin:0px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.middle{
+	display: flex;
+	padding-bottom: 20px;
+	align-items: center;
+	margin:80px 200px 50px 200px;
+}
+.between{
+	background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page231/pcomspace/assets/images/live-demo/background-02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.arti1
+{
+	margin-left: 665px;
+	color: white;
+	background-color: rgba(49,101,115,.75);
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left:  20px;
+	padding-right:  100px;
+}
+.four{
+	text-align: center;
+	padding:10px 10px 10px 10px;
+	margin-right: 10px;
+}
+.img{
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+.mid2{
+	display: flex;
+}
+.mid3{    
+    padding-top: 80px;
+	padding-bottom: 80px;
+	margin-left: 185px;
+    margin-right: 185px;
+}
+.text{
+	margin-bottom: 4px;
+}
+blockquote{
+	color: inherit;
+    background-color: #F2F2F2;
+    padding:30px;
+    margin: 0px 0px 25px 0px;
+}
+.pic{ 
+	margin-bottom: 20px;
+    text-align: center;
+}
+.part{
+	margin-right: 30px;
+	align-content: center;
+}
+.second{
+	background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page231/pcomspace/assets/images/live-demo/background-03.jpg");
+}
+.mid4{
+	display: flex;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #FFF;
+	background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.extra{
+    z-index: 1;
+}
+.but2{
+	color: #FFF;
+    background-color: #6AAEBF;
+    border-color: #6AAEBF;
+    display: inline-block;
+    padding: 8px 18px 10px;
+    border-radius: 22px;
+}
+.but2:hover{
+	color: inherit;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+}
+.mid5{
+	padding:80px 0px;
+	margin-left: 185px;
+    margin-right: 185px;
+}
+
+.text2{
+	margin:0px;
+}
+.pic2{
+	display: flex;
+}
+.arti2{
+	margin-left:  28.325px;
+}
+.but4{
+	margin: 0;
+	border:1px solid white;
+    padding: 0;
+    background-color: #FFF;
+    color: #6AAEBF;
+}
+.but4:hover{
+	cursor: pointer;
+}
+a {
+    color: #6AAEBF;
+    text-decoration: none;
+}
+a:hover{
+	cursor: pointer;
+}
+.mid6{
+	display: flex;
+	color: #FFF;
+}
+.btw{
+	background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page231/pcomspace/assets/images/live-demo/background-04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.part5{
+	margin-left: 28px;
+}
+.diff{
+	cursor: pointer;;
+}
+.mid7{
+	display: flex;
+	color: #CBCBCB;
+    background-color: #252525;
+    padding:80px 0px;
+}
+.pic7{
+	text-align: center;
+}
+.diff2{
+	color: #6AAEBF;
+}
+.new{
+	color: white;
+}
+.new:hover{
+	color:  #6AAEBF;
+	cursor: pointer;
+}
+.icon1{
+    color: #FFF;
+    background-color: #6AAEBF;
+    border-color: #6AAEBF
+    width: 60px;
+    height: 60px;
+    line-height: 58px;
+    border: 1px solid;
+    font-size:24px;
+    border-radius: 50%;
+}
+.icon1:hover{
+	background-color: #FFF;
+	border-bottom: #6AAEBF;
+}
+.part2{
+	margin-left: 30px;
+}
+.last
+{
+	color:white;
+}
+.last2{
+	color: #CBCBCB;
+    background-color: #141414;
+}
+.last3{
+    padding: 20px 0px;
+	margin-left: 185px;
+	margin-right: 185px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.icon3{
+	line-height: 58px !important;
+    border: 1px solid;
+    text-align: center;
+    font-size: 25px !important;
+    color: #FFF;
+    background-color: #6AAEBF;
+    border-color: #6AAEBF;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    width:58px;
+    height:58px;   
+}
+.col{
+	color: #474747;
+}
+.inn{
+	margin-right: 60px;
+	margin-left: 60px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
